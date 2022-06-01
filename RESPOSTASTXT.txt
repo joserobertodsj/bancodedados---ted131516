@@ -1,0 +1,1 @@
+A tabela que foi alterada foi a FUNCIONARIO, onde foi alterado o VARCHAR da coluna CPF de 11 para 14, para que dessa forma pudesse ser feito o INSERT nessa tabela.
